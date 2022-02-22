@@ -1,0 +1,14 @@
+{
+    "stock":[
+        {
+            "id": 1,
+            "name": "The Terminator",
+            "quantity": 1
+        },
+        {
+            "id": 2,
+            "name": "Downsizing",
+            "quantity": 5
+        }
+    ]    
+}
